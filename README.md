@@ -8,11 +8,8 @@ I work with React ecosystem to build a cool stuff in a web platform
 - 👯 I’m looking to collaborate on freelance project
 - 💬 Ask me about ...
 - 📫 How to reach me: albertmanuels10@gmail.com
-
-
-<div>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertmanuels&show_icons=true) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertmanuels)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertmanuels)](https://github.com/anuraghazra/github-readme-stats)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertmanuels&show_icons=true) 
  
 
