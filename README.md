@@ -3,7 +3,7 @@
 
 I work with React ecosystem to build a cool stuff in a web platform
 
-- 🌱 I’m currently learning fullstack development and bloging
+- 🌱 I’m currently learning bloging and fullstack using MERN stack
 - 📫 How to reach me: albertmanuels10@gmail.com
 
 <div>
