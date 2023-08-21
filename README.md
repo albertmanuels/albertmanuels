@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Albert Manuel
-#### Software Engineer - Web Platform
+#### Frontend Engineer
 
 I work with React ecosystem to build a cool stuff in a web platform
 
