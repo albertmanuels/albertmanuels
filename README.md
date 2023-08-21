@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Albert Manuel
+#### Software Engineer - Web Platform
 
-<!--
-**albertmanuels/albertmanuels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I work with React ecosystem to build a cool stuff in a web platform
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning fullstack development and bloging
+- 👯 I’m looking to collaborate on freelance project
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: albertmanuels10@gmail.com
+
+
+<div>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=albertmanuels&show_icons=true) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertmanuels)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+ 
+
