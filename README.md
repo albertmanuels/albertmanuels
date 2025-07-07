@@ -1,3 +1,2 @@
-Hi there 👋, I'm Albert Manuel
+Hi there 👋, I am a software engineer working with javascript.
 
-Frontend Engineer
